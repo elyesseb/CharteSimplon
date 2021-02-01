@@ -95,13 +95,10 @@
     
     #random {
         color: grey;
-        margin-left: 40%;
         border-style: none;
         border: 1px solid grey;
         border-radius: 4px;
-        padding: 10px 10px;
         font-weight: bold;
-        font-size: 14px;
     }
     
     ul {
